@@ -7,4 +7,5 @@ def square_array(array)
     counter += 1
     puts square_array
   }
+puts square_array
 end
