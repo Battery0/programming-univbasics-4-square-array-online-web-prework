@@ -7,8 +7,8 @@ def square_array(array)
   while numbers[counter] do
     #squared_array.push(array[counter] ** 2)
     counter += 1
-    puts square_array(array)
+
   end
-  puts square_array(array)
+
 end
 puts square_array(array)
