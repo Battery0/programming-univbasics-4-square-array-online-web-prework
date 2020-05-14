@@ -7,6 +7,6 @@ def square_array(array)
   while numbers[counter] do
     squared_array.push(array[counter] ** 2)
     counter += 1
-    puts squared_array
+    squared_array
   end
 end
