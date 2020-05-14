@@ -6,5 +6,5 @@ def square_array(array)
     #square_array.push(array[counter] ** 2)
     counter += 1
     puts square_array
-  }
+  end
 end
