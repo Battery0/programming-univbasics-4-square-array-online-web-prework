@@ -5,8 +5,8 @@ def square_array(array)
   #numbers = [1,2,3]
 
   while numbers[counter] do
-    #square_array.push(array[counter] ** 2)
+    squared_array.push(array[counter] ** 2)
     counter += 1
-    puts square_array
+    puts squared_array
   end
 end
